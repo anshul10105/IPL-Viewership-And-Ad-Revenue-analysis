@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Indian Premier League (IPL) is one of the world’s most popular sporting events, attracting millions of viewers each season. This project performs Exploratory Data Analysis (EDA) on IPL viewership and advertising revenue data to uncover business insights, understand audience patterns, and evaluate the impact of sponsorships and broadcasting.
+**The Indian Premier League (IPL) is one of the world’s most popular sporting events, attracting millions of viewers each season. This project performs Exploratory Data Analysis (EDA) on IPL viewership and advertising revenue data to uncover business insights, understand audience patterns, and evaluate the impact of sponsorships and broadcasting.**
 
 ### Objectives
 
@@ -16,7 +16,7 @@ Identify key factors driving audience engagement.
 
 Provide data-backed recommendations for advertisers, broadcasters, and IPL stakeholders.
 
-🔍 Exploratory Data Analysis (EDA) Steps
+### Exploratory Data Analysis (EDA) Steps
 
 Data Cleaning
 
@@ -41,9 +41,9 @@ Line charts comparing TV vs Digital audiences.
 
 ### Key Insights
 
- Digital platforms are driving exponential growth, with streaming viewership rising faster than TV.
+**Digital platforms are driving exponential growth, with streaming viewership rising faster than TV.**
 
- Ad revenues are strongly correlated with peak matches (playoffs and finals).
+ **Ad revenues are strongly correlated with peak matches (playoffs and finals).**
 
  Teams with higher star player engagement attract more ad revenue and sponsorships.
 
@@ -59,10 +59,10 @@ Excel/CSV datasets (viewership, ad revenue, sponsorship data)
 ### Conclusion
 IPL is not just a cricket tournament but a business ecosystem.
 
-Viewership has consistently grown, especially on digital platforms, opening new opportunities for advertisers.
+**Viewership has consistently grown, especially on digital platforms, opening new opportunities for advertisers.**
 
-Ad revenues peak during marquee matches and playoffs, making them prime slots for brands.
+**Ad revenues peak during marquee matches and playoffs, making them prime slots for brands.**
 
-The analysis highlights the strategic importance of sponsorship deals, brand placement, and digital engagement in driving IPL’s business success.
+**The analysis highlights the strategic importance of sponsorship deals, brand placement, and digital engagement in driving IPL’s business success**
 
 This project demonstrates how data-driven insights can help optimize broadcasting, advertising, and sponsorship strategies for one of the world’s biggest sports leagues.
